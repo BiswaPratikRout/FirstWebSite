@@ -37,6 +37,7 @@ a{
     background-color:#C8E3D4 ;
     position: relative;
     padding: 200px;
+    size: 100%;
 }
 .bottom-cloud{
     position:absolute;
